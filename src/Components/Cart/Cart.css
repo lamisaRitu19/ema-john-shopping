@@ -3,3 +3,28 @@
     top: 0;
     padding: 28px 24px;
 }
+
+.cart button {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    margin-bottom: 16px;
+    border: 0;
+    border-radius: 4px;
+    color: #ffffff;
+    background-color: #FF3030;
+}
+
+.cart button>p {
+    margin: 0;
+}
+
+.cart a {
+    text-decoration: none;
+}
+
+.cart a>button {
+    background-color: #FF9900;
+}

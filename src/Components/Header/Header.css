@@ -15,5 +15,22 @@
 }
 
 .header a:hover {
-    color: orange;
+    color: #FF9900;
+}
+
+.header span {
+    color: #FF9900;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 46px;
+}
+
+.btn-logOut {
+    background-color: #FF9900;
+    color: #FFFFFF;
+    font-size: 17px;
+    border: 0;
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin-left: 16px;
 }
